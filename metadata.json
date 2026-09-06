@@ -1,0 +1,6 @@
+{
+  "name": "ATMOSINTEL (by Gagan Pahuja)",
+  "description": "A comprehensive weather forecasting application providing current conditions, 7-day outlooks, and intelligent planning recommendations using Open-Meteo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
